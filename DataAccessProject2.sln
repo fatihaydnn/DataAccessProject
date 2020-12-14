@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessHomework", "..\DataAccessHomework\DataAccessHomework\DataAccessHomework.csproj", "{950A542F-C836-4DA3-9E1E-25B74ADD5E71}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToExample", "..\DataAccessProjects\LinqToExample\LinqToExample.csproj", "{B61A7525-B072-43C0-8B0B-579E0007F882}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToMethodsAndAggregateFunctions", "..\DataAccessProjects\LinqToMethodsAndAggregateFunctions\LinqToMethodsAndAggregateFunctions.csproj", "{C14C9874-9551-4B5A-AB50-F7A909B239E9}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{950A542F-C836-4DA3-9E1E-25B74ADD5E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{950A542F-C836-4DA3-9E1E-25B74ADD5E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{950A542F-C836-4DA3-9E1E-25B74ADD5E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{950A542F-C836-4DA3-9E1E-25B74ADD5E71}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B61A7525-B072-43C0-8B0B-579E0007F882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B61A7525-B072-43C0-8B0B-579E0007F882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B61A7525-B072-43C0-8B0B-579E0007F882}.Release|Any CPU.ActiveCfg = Release|Any CPU
