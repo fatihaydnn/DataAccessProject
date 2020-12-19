@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToMethodsAndAggregateFu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneDirectory", "..\DataAccessProjects\PhoneDirectory\PhoneDirectory.csproj", "{78DECAF2-24CF-4BC7-825C-8107F3CA5F19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessNorthwind", "DataAccessNorthwind\DataAccessNorthwind.csproj", "{4CCC5770-2B92-4681-A111-BA3BE21B9F1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{78DECAF2-24CF-4BC7-825C-8107F3CA5F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DECAF2-24CF-4BC7-825C-8107F3CA5F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DECAF2-24CF-4BC7-825C-8107F3CA5F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCC5770-2B92-4681-A111-BA3BE21B9F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCC5770-2B92-4681-A111-BA3BE21B9F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCC5770-2B92-4681-A111-BA3BE21B9F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCC5770-2B92-4681-A111-BA3BE21B9F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
